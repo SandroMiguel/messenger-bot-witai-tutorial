@@ -23,10 +23,14 @@ cd witai_facebook
 
 3. Criar uma conta no Heroku em https://www.heroku.com/
 
-3. Fazer o *deploy* do bot para o Heroku (vão ser solicitadas as credênciais do Heroku)
+4. Criar uma aplicação no Heroku (vão ser solicitadas as credênciais do Heroku)
 ```PowerShell
 heroku apps:create
 ```
+![Screenshot](docs/img/heroku_create_app.png)
+
+
+3. Fazer o *deploy* do bot para o Heroku 
 
 2. I have organized my chat bot into four major components: the server, the Facebook Messenger connector, the bot app, and the NLP service. It’s a good idea to make chat bots modular. You can progressively add more more components to make the bot understand language or locations but you should also be able to remove components and until only a web server is left.
 
