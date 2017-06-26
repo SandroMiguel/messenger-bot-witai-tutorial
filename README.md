@@ -1,29 +1,6 @@
 # Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js
 
-![Alt text](/demo/Demo.gif)
-
-Facebook Messenger is a platform that reaches over a billion people world wide. Now that Facebook has opened up access to sending and receiving messages many new opportunities open up.
-
-You can jack up your chat bot’s smarts with two tech buzzwords: natural language processing (NLP) and natural language understanding (NLU). Those two things can make your chat bot not awkwardly ask you again and again what someone just said.
-
-You can read the [5 min quickstart](https://wit.ai/docs/quickstart) the Wit.ai team prepared but it's really only meant for beginners and not for intermediate hackers.
-
-So instead here is how to add Wit.ai to do real things in 30 minutes.
-
-## 🤔 Firstly, what’s the difference between NLP and NLU?
-
-NLP helps you break down a sentence into things called entities. It’s like primary school for your bot. For example, NLP can read the sentence “Sally sold seashells by the seashore” and figure out there’s an entity Sally, that there’s another entity sold, that there are entities seashells and seashore.
-
-Sometimes just having words in a sentence is enough. You can extract category or keywords and from there you can hack your chat bot to do something. But for more smarts you need to take your bot to the equivalent of university.
-NLU helps you figure out what that sentence meant. Sally did something with something. And because of that the chat bot can then react and respond based on what Sally did do and with what. In other words, with NLU your chat bot can figure out human concepts like intent or sentiment.
-
-## 🏃 Get ready!
-
-If you have not built a chat bot before then read my other tutorial first: [http://github.com/jw84/messenger-bot-tutorial](http://github.com/jw84/messenger-bot-tutorial)
-
-Be sure you know how to deploy a Heroku server. You can then git clone this repository, running npm install, and get started.
-
-### *Setup Wit.ai*
+## *Setup Wit.ai*
 
 1. Sign up for a Wit.ai account here: https://wit.ai
 
