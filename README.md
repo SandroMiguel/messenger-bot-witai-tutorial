@@ -27,7 +27,7 @@ cd witai_facebook
 ```PowerShell
 heroku apps:create
 ```
-![Screenshot](docs/img/heroku_create_app.png)
+![Screenshot](docs/img/heroku_create_application.png)
 
 
 3. Fazer o *deploy* do bot para o Heroku 
