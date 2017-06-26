@@ -9,6 +9,7 @@ Basicamente qualquer mensagem enviada através do Facebook é reencaminhada para
 O Heroku é uma (PaaS - platform as a service) que suporta várias linguagens de programação tendo sido adquirida pela Salesforce.com em 2010.  
 
 1. Fazer o *clone* deste repositório para a máquina local
+
 *NOTA: utilizei o PowerShell do Windows 10*
 ```PowerShell
 git clone https://github.com/SandroMiguel/messenger-bot-witai-tutorial witai_facebook
