@@ -18,7 +18,7 @@ git clone https://github.com/SandroMiguel/messenger-bot-witai-tutorial witai_fac
 ```PowerShell
 cd witai_facebook
 ```
-![Screenshot](docs/img/ps_project_folder.png)
+![Screenshot](docs/img/ps_git_enter_folder.png)
 
 
 3. Criar uma conta no Heroku em https://www.heroku.com/
