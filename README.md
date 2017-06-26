@@ -1,6 +1,6 @@
 # Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js
 
-## *Setup Wit.ai*
+## Setup Wit.ai
 
 1. Sign up for a Wit.ai account here: https://wit.ai
 
