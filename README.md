@@ -3,7 +3,7 @@ A revolução dos Chat Bots está para ficar e eu não quero ficar para trás :)
 
 ## Setup Wit.ai
 
-1. Criar uma conta no Wit.ai: https://wit.ai
+1. Criar uma conta no Wit.ai em https://wit.ai
 
 2. Go clone my weather app: [https://wit.ai/jw84/weather](https://wit.ai/jw84/weather)
 
