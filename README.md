@@ -14,6 +14,20 @@ git clone https://github.com/SandroMiguel/messenger-bot-witai-tutorial witai_fac
 ```
 ![Screenshot](docs/img/ps_git_clone.png)
 
+2. Entrar na pasta do projeto
+```PowerShell
+cd witai_facebook
+```
+![Screenshot](docs/img/ps_project_folder.png)
+
+
+3. Criar uma conta no Heroku em https://www.heroku.com/
+
+3. Fazer o *deploy* do bot para o Heroku (vão ser solicitadas as credênciais do Heroku)
+```PowerShell
+heroku apps:create
+```
+
 2. I have organized my chat bot into four major components: the server, the Facebook Messenger connector, the bot app, and the NLP service. It’s a good idea to make chat bots modular. You can progressively add more more components to make the bot understand language or locations but you should also be able to remove components and until only a web server is left.
 
 3. Deploy the bot to Heroku by running these command in Terminal inside the cloned git repo directory. A page should pop up meaning your app is ready. Be sure to remember the URL of your Heroku app.
