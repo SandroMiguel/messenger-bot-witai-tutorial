@@ -1,4 +1,4 @@
-# 🤖 Add Wit.ai to Your Facebook Messenger bot
+# Facebook Chat Bot with Wit.ai and Heroku using node.js
 
 ![Alt text](/demo/Demo.gif)
 
