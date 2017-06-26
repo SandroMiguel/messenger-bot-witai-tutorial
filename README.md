@@ -3,7 +3,7 @@ A revolução dos Chat Bots está para ficar e eu não quero ficar para trás :)
 
 ## Arquitetura
 Arquitetura do sistema
-
+![Screenshot](demo/chatbot_architecture.png)
 
 ## Setup Wit.ai
 
