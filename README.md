@@ -25,7 +25,7 @@ cd witai_facebook
 
 3. Criar uma conta no Heroku em https://www.heroku.com/
 
-4. Criar uma aplicação no Heroku (vão ser solicitadas as credênciais do Heroku)
+4. Criar uma aplicação no Heroku (vão ser solicitadas as credenciais do Heroku)
 ```PowerShell
 heroku apps:create
 ```
