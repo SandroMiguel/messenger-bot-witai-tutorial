@@ -6,8 +6,10 @@ Basicamente qualquer mensagem enviada através do Facebook é reencaminhada para
 ![Screenshot](docs/img/chatbot_architecture.png)
 
 ## Configurar o Heroku
+O Heroku é uma (PaaS - platform as a service) que suporta várias linguagens de programação tendo sido adquirida pela Salesforce.com em 2010.  
 
-1. Git clone my bot here
+1. Fazer o clone deste repositório para a máquina local
+	git clone https://github.com/SandroMiguel/messenger-bot-witai-tutorial witai_facebook
 
 2. I have organized my chat bot into four major components: the server, the Facebook Messenger connector, the bot app, and the NLP service. It’s a good idea to make chat bots modular. You can progressively add more more components to make the bot understand language or locations but you should also be able to remove components and until only a web server is left.
 
