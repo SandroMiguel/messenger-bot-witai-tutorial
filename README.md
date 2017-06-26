@@ -1,4 +1,5 @@
 # Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js
+A revolução dos Chat Bots está para ficar e eu não quero ficar para trás :).
 
 ## Setup Wit.ai
 
