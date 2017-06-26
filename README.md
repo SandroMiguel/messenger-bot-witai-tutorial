@@ -34,7 +34,7 @@ npm install express request body-parser node-wit --save
 ```PowerShell
 heroku apps:create
 ```
-![Screenshot](docs/img/heroku_create_app.png)
+![Screenshot](docs/img/heroku_create_application.png)
 
 5. Fazer o *push* do bot para o Heroku (deploy)
 ```PowerShell
