@@ -1,9 +1,9 @@
 # Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js
-A revolução dos Chat Bots está para ficar e eu não quero ficar para trás :).
+A revolução dos Chat Bots está para ficar e eu não quero ficar para trás :)
 
 ## Setup Wit.ai
 
-1. Sign up for a Wit.ai account here: https://wit.ai
+1. Criar uma conta no Wit.ai: https://wit.ai
 
 2. Go clone my weather app: [https://wit.ai/jw84/weather](https://wit.ai/jw84/weather)
 
@@ -172,7 +172,7 @@ You can also design Messenger bots in Sketch with the [Bots UI Kit](https://bots
 
 I build and design bots all day. Email me for help!
 
-## Credit
+## Créditos
 
-This project is a fork from https://github.com/jw84/messenger-bot-witai-tutorial. Thank you Jerry Wang.
+Este projeto é um *fork* de https://github.com/jw84/messenger-bot-witai-tutorial. Obrigado Jerry Wang pela inspiração.
 
