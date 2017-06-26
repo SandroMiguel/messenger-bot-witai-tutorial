@@ -32,7 +32,7 @@ npm install express request body-parser node-wit --save
 
 5. Criar uma aplicação no Heroku (vão ser solicitadas as credenciais do Heroku)
 ```PowerShell
-heroku apps:create
+heroku apps:create chatbot-jun-2017
 ```
 ![Screenshot](docs/img/heroku_create_application.png)
 
