@@ -196,4 +196,5 @@ I build and design bots all day. Email me for help!
 
 ## Credit
 
-Thanks to [https://github.com/hunkim/Wit-Facebook](https://github.com/hunkim/Wit-Facebook) for the inspiration
+This project is a fork from https://github.com/jw84/messenger-bot-witai-tutorial. Thank you Jerry Wang.
+
