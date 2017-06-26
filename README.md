@@ -29,8 +29,12 @@ heroku apps:create
 ```
 ![Screenshot](docs/img/heroku_create_app.png)
 
+5. Fazer o *push* do bot para o Heroku (deploy)
+```PowerShell
+git push heroku master
+```
+![Screenshot](docs/img/heroku_git_push.png)
 
-3. Fazer o *deploy* do bot para o Heroku 
 
 2. I have organized my chat bot into four major components: the server, the Facebook Messenger connector, the bot app, and the NLP service. It’s a good idea to make chat bots modular. You can progressively add more more components to make the bot understand language or locations but you should also be able to remove components and until only a web server is left.
 
