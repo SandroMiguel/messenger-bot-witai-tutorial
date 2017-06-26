@@ -1,4 +1,4 @@
-# Facebook Chat Bot with Wit.ai and Heroku using node.js
+# Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js
 
 ![Alt text](/demo/Demo.gif)
 
