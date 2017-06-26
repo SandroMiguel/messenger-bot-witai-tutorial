@@ -11,6 +11,7 @@ Arquitetura do sistema
 
 2. Criar uma nova app;
 
+
 3. Find the app token in your weather app so we can test everything is working. In your app go to the Settings page then find the “Server Access Token” in API Details.
 
 ![Alt text](/demo/Demo1.jpg)
