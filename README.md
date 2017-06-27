@@ -67,7 +67,7 @@ npm install express request body-parser node-wit --save
 ```
 ![Screenshot](docs/img/npm_install_dependencies.png)
 
-4. Criar uma conta no Heroku em https://www.heroku.com/
+4. Criar uma conta no Heroku em https://heroku.com
 
 5. Criar uma aplicação no Heroku (vão ser solicitadas as credenciais do Heroku)
 ```PowerShell
