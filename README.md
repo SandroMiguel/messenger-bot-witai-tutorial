@@ -18,6 +18,7 @@ O Wit.ai é uma plataforma para construção de chat bots que foi adquirida pelo
 ![Screenshot](docs/img/wit_create_app.png)
 
 3. Criar uma história
+
 Por enquanto vamos criar uma história de resposta rápida (sim/não)
 - Entrar na página "Stories"
 - Clicar no botão "Create a story"
