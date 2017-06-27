@@ -43,29 +43,8 @@ Por enquanto vamos criar uma história de resposta rápida (sim/não)
 - Clicar na aba "Settings"
 - Na secção "API Details" localizar o campo "Server Access Token"
 - Guardar o *token* para ser usado mais tarde no Heroku
+
 ![Screenshot](docs/img/wit_server_access_token.png)
-
-Let’s test first that the token works by running this command in your Terminal:
-
-	curl -H 'Authorization: Bearer <YOUR TOKEN HERE>' 'https://api.wit.ai/message?v=20160526&q=what%20is%20the%20weather%20in%20New%20York'
-
-You should get back a response like:
-
-	{
-	  "msg_id" : "14735f29-daa9-4553-a259-24cfa8c4ba42",
-	  "_text" : "what is the weather in New York",
-		"entities": {
-			"location": [ {
-				"confidence": 0.9984463453705885,
-				"type": "value",
-				"value": "New York",
-				"suggested": true
-			} ]
-		}
-	}
-
-
-
 
 ## Configurar o Heroku
 O Heroku é uma (PaaS - platform as a service) que suporta várias linguagens de programação tendo sido adquirida pela Salesforce.com em 2010.  
