@@ -17,9 +17,28 @@ Os dados meteorológicos proveem de uma *3rd party API* disponibilizada pela Yah
 ![Screenshot](docs/img/wit_create_app.png)
 
 3. Criar uma história
+Por enquanto vamos criar uma história de resposta rápida (sim/não)
 - Entrar na página "Stories"
 - Clicar no botão "Create a story"
-- ...
+- No campo "User says" escrever "Olá"
+- No valos do "intent" colocar "greetings"
+- Clicar no botão "Bot sends"
+- No campo "The bot says..." escrever "Olá, gostas de falar com máquinas?"
+- Clicar no botão "Set quick replies"
+- No campo "Type a quick reply" escrever "Sim", pressionar a tecla "Enter", escrever "Não" e pressionar a tecla "Enter"
+- Clicar no botão "Bot sends"
+- Clicar em "Add new entity", escrever "yes_no" e pressionar duas vezes seguidas na tecla "Enter"
+- No campo "Value" escrever "yes"
+- Clicar no botão "Bot sends"
+- No campo "The bot says..." escrever "Boa! Olha, em breve vou saber dizer o tempo."
+- Clicar no botão "Não"
+- Clicar em "Add new entity" e selecionar a opção "yes_no"
+- No campo "Value" escrever "no"
+- Clicar no botão "Bot sends"
+- No campo "The bot says..." escrever "Ohh que pena :("
+- Clicar no botão "Save Story"
+
+
 
 3. Find the app token in your weather app so we can test everything is working. In your app go to the Settings page then find the “Server Access Token” in API Details.
 
@@ -96,6 +115,8 @@ git push heroku master
 	```
 
 Setup Facebook to talk to your chat bot
+
+1. Sign up to Facebook Developer Program - 
 
 1. Go to [https://developers.facebook.com](https://developers.facebook.com) and create a new app, be sure to add Facebook Messenger as a product to the app. You can also use an existing an app.
 
