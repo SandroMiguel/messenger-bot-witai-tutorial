@@ -1,17 +1,21 @@
 {
-  "name": "messengerbotwitai",
-  "version": "1.0.0",
-  "description": "",
+  "name": "facebook-witai-chatbot",
+  "version": "0.1.0",
+  "description": "Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sandro Miguel Marques",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.15.0",
-    "express": "^4.13.4",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
     "node-wit": "^3.3.2",
-    "request": "^2.71.0"
+    "request": "^2.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SandroMiguel/messenger-bot-witai-tutorial.git"
   }
 }
