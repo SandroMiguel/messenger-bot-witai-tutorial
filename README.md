@@ -67,7 +67,7 @@ cd witai_facebook
 
 3. Instalar as dependências
 ```PowerShell
-npm install express request body-parser node-wit --save
+npm install
 ```
 ![Screenshot](docs/img/npm_01_install.gif)
 
