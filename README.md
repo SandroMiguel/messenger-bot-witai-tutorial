@@ -88,9 +88,6 @@ git push heroku master
 ```
 ![Screenshot](docs/img/heroku_01_deploy.gif)
 
-
-2. I have organized my chat bot into four major components: the server, the Facebook Messenger connector, the bot app, and the NLP service. It’s a good idea to make chat bots modular. You can progressively add more more components to make the bot understand language or locations but you should also be able to remove components and until only a web server is left.
-
 3. Deploy the bot to Heroku by running these command in Terminal inside the cloned git repo directory. A page should pop up meaning your app is ready. Be sure to remember the URL of your Heroku app.
 
 	```
