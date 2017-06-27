@@ -1,5 +1,5 @@
 # Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js
-A revolução dos Chat Bots está para ficar e eu não quero ficar para trás :)
+A revolução dos Chat Bots está para ficar e nós não queremos ficar para trás, pois não? :)
 
 ## Arquitetura
 Basicamente qualquer mensagem enviada através do Facebook é reencaminhada para o Wit.ai e para a API (meteorologia) através do Heroku.
