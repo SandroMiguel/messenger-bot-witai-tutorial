@@ -64,13 +64,12 @@ git clone https://github.com/SandroMiguel/messenger-bot-witai-tutorial witai_fac
 ```PowerShell
 cd witai_facebook
 ```
-![Screenshot](docs/img/ps_git_enter_folder.png)
 
 3. Instalar as dependências
 ```PowerShell
 npm install express request body-parser node-wit --save
 ```
-![Screenshot](docs/img/npm_install_dependencies.png)
+![Screenshot](docs/img/npm_01_install.gif)
 
 4. Criar uma conta no Heroku em https://heroku.com
 
