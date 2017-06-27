@@ -73,17 +73,20 @@ npm install
 
 4. Criar uma conta no Heroku em https://heroku.com
 
-5. Criar uma aplicação no Heroku (vão ser solicitadas as credenciais do Heroku)
+5. Enviar a aplicação para o Heroku
+- Efetuar o login no Heroku
 ```PowerShell
-heroku apps:create chatbot-jun-2017
+heroku login
 ```
-![Screenshot](docs/img/heroku_create_application.png)
-
-5. Fazer o *push* do bot para o Heroku (deploy)
+- Criar uma aplicação no Heroku
+```PowerShell
+heroku apps:create chatbot-sandro
+```
+- Fazer o *push* do bot para o Heroku (deploy)
 ```PowerShell
 git push heroku master
 ```
-![Screenshot](docs/img/heroku_git_deploy.png)
+![Screenshot](docs/img/heroku_01_deploy.gif)
 
 
 2. I have organized my chat bot into four major components: the server, the Facebook Messenger connector, the bot app, and the NLP service. It’s a good idea to make chat bots modular. You can progressively add more more components to make the bot understand language or locations but you should also be able to remove components and until only a web server is left.
