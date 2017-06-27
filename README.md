@@ -58,7 +58,7 @@ O Heroku é uma (PaaS - platform as a service) que suporta várias linguagens de
 ```PowerShell
 git clone https://github.com/SandroMiguel/messenger-bot-witai-tutorial witai_facebook
 ```
-![Screenshot](docs/img/ps_git_clone.png)
+![Screenshot](docs/img/git_01_clone.gif)
 
 2. Entrar na pasta do projeto
 ```PowerShell
