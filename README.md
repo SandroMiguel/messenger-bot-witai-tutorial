@@ -37,6 +37,7 @@ Por enquanto vamos criar uma história de resposta rápida (sim/não)
 - Clicar no botão "Bot sends"
 - No campo "The bot says..." escrever "Ohh que pena :("
 - Clicar no botão "Save Story"
+![Screenshot](docs/img/wit_01_hello.gif)
 
 
 
