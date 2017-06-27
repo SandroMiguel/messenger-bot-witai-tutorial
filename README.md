@@ -39,11 +39,11 @@ Por enquanto vamos criar uma história de resposta rápida (sim/não)
 - Clicar no botão "Save Story"
 ![Screenshot](docs/img/wit_01_hello.gif)
 
-
-
-3. Find the app token in your weather app so we can test everything is working. In your app go to the Settings page then find the “Server Access Token” in API Details.
-
-![Alt text](/demo/Demo1.jpg)
+4. Localizar e guardar o "Server Access Token"
+- Clicar na aba "Settings"
+- Na secção "API Details" localizar o campo "Server Access Token"
+- Guardar o *token* para ser usado mais tarde no Heroku
+![Screenshot](docs/img/wit_server_access_token.png)
 
 Let’s test first that the token works by running this command in your Terminal:
 
