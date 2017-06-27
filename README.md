@@ -9,6 +9,7 @@ Os dados meteorológicos proveem de uma *3rd party API* disponibilizada pela Yah
 ![Screenshot](docs/img/chatbot_architecture.png)
 
 ## Configurar o Wit.ai
+O Wit.ai é uma plataforma para construção de chat bots que foi adquirida pelo Facebook após 18 meses da sua fundação.
 
 1. Criar uma conta no Wit.ai em https://wit.ai
 
