@@ -16,6 +16,7 @@ Basicamente qualquer mensagem enviada através do Facebook é reencaminhada para
 3. Criar uma história
 - Entrar na página "Stories"
 - Clicar no botão "Create a story"
+- ...
 
 3. Find the app token in your weather app so we can test everything is working. In your app go to the Settings page then find the “Server Access Token” in API Details.
 
