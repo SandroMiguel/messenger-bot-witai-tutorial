@@ -3,7 +3,9 @@ A revolução dos Chat Bots está para ficar e eu não quero ficar para trás :)
 
 ## Arquitetura
 Basicamente qualquer mensagem enviada através do Facebook é reencaminhada para o Wit.ai e para a API (meteorologia) através do Heroku.
+
 A API de meteorologia é uma 3rd party API disponibilizada pela Yahoo.
+
 ![Screenshot](docs/img/chatbot_architecture.png)
 
 ## Configurar o Wit.ai
