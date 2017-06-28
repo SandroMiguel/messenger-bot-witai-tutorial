@@ -95,6 +95,7 @@ git push heroku master
 
 6. Definir o *token* do Wit.ai no Heroku
 - O *token* fornecido anteriormente no Wit.ai deve ser configurado no Heroku
+
 *NOTA: também é possível configurar as variáveis de ambiente no dashboard do Heroku através da página "Settings" clicando no botão "Reveal Config Vars"*
 ```PowerShell
 heroku config:set WIT_TOKEN="F3PN6IUL574DXE3ENCBQQ4SWCYPQHILL"
