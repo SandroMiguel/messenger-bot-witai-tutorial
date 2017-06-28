@@ -126,14 +126,18 @@ Vamos configurar o Messenger do Facebook para comunicar com o chat bot.
 
 ![Screenshot](docs/img/heroku_03_webhooks.gif)
 
-- Subscrever a página na secção "Webhooks"
-
-![Screenshot](docs/img/facebook_03_subscribe_page.png)
-
 5. Gerar o *token* da aplicação do Facebook
 - Clicar em "Settings"
 - Selecionar a página
 - Guardar o *token* para ser usado mais tarde no Heroku
+
+![Screenshot](docs/img/facebook_03_token_generation.png)
+
+- Subscrever a página na secção "Webhooks"
+
+![Screenshot](docs/img/facebook_03_subscribe_page.png)
+
+
 
 
 2. Go to the settings page of the app you’ve made then go to the Messenger settings page. Here you will generate a token of the Facebook Page to link to with Messenger. Remember to save this token key somewhere.
