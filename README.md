@@ -106,9 +106,16 @@ O Heroku já comunica com o Wit.ai !!!
 ## Configurar o Facebook
 Vamos configurar o Messenger do Facebook para comunicar com o chat bot.
 
-1. Sign up to Facebook Developer Program - 
+1. Criar uma conta no Facebook Developers em https://developers.facebook.com
 
-1. Go to [https://developers.facebook.com](https://developers.facebook.com) and create a new app, be sure to add Facebook Messenger as a product to the app. You can also use an existing an app.
+2. Criar uma nova página no Facebook em https://www.facebook.com/pages/create
+![Screenshot](docs/facebook_01_create_page.png)
+
+2. Criar uma nova app em https://developers.facebook.com/apps
+- Adicionar o produto "Facebook Messenger"
+- Configurar o 
+
+2. Go to [https://developers.facebook.com](https://developers.facebook.com) and create a new app, be sure to add Facebook Messenger as a product to the app. You can also use an existing an app.
 
 2. Go to the settings page of the app you’ve made then go to the Messenger settings page. Here you will generate a token of the Facebook Page to link to with Messenger. Remember to save this token key somewhere.
 
