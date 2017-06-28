@@ -152,6 +152,10 @@ Caso a página do Facebook que foi criada não esteja pública, podemos adiciona
 
 ![Screenshot](docs/img/Facebook_05_add_button.gif)
 
+Para testar basta passar o rato por cima do botão "Enviar mensagem" e selecionar o opção "Testar botão"
+
+![Screenshot](docs/img/Facebook_06_test.gif)
+
 ## Créditos
 
 Este projeto é um *fork* de https://github.com/jw84/messenger-bot-witai-tutorial. Obrigado @jw84 pela inspiração.
