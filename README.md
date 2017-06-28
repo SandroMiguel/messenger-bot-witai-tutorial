@@ -95,6 +95,7 @@ git push heroku master
 
 6. Definir o *token* do Wit.ai no Heroku
 - O *token* fornecido anteriormente no Wit.ai deve ser configurado no Heroku
+*NOTA: também é possível configurar as variáveis de ambiente no dashboard do Heroku através da página "Settings" clicando no botão "Reveal Config Vars"*
 ```PowerShell
 heroku config:set WIT_TOKEN="F3PN6IUL574DXE3ENCBQQ4SWCYPQHILL"
 ```
@@ -146,7 +147,7 @@ Vamos configurar o Messenger do Facebook para comunicar com o chat bot.
 6. Definir o *token* da app do Facebook no Heroku
 - O *token* fornecido anteriormente no Facebook deve ser configurado no Heroku
 ```PowerShell
-heroku config:set FB_PAGE_TOKEN="EAAU2LXXraaIBAM2ZCd4UhC9a ... lon long long token ... 9y7gSZB18pRuCgZDZD"
+heroku config:set FB_PAGE_TOKEN="EAAU2LXXraaIBAM2ZCd4UhC9a ... long long long token ... 9y7gSZB18pRuCgZDZD"
 ```
 
 ![Screenshot](docs/img/heroku_04_fb_page_token.gif)
