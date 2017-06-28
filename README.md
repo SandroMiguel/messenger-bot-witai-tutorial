@@ -95,7 +95,7 @@ heroku config:set WIT_TOKEN="F3PN6IUL574DXE3ENCBQQ4SWCYPQHILL"
 ```
 - Abrir a aplicação no Heroku
 ```PowerShell
-heroku config:set WIT_TOKEN="F3PN6IUL574DXE3ENCBQQ4SWCYPQHILL"
+heroku open
 ```
 ![Screenshot](docs/img/heroku_02_wit_token.gif)
 
