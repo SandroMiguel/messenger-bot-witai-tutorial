@@ -112,7 +112,11 @@ Vamos configurar o Messenger do Facebook para comunicar com o chat bot.
 
 ![Screenshot](docs/img/facebook_01_create_page.png)
 
-2. Criar uma nova app em https://developers.facebook.com/apps
+3. Criar uma nova app em https://developers.facebook.com/apps
+
+![Screenshot](docs/img/facebook_02_create_app.png)
+
+4. Configurar a app do Facebook
 - Adicionar o produto "Facebook Messenger"
 - Configurar o 
 
