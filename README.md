@@ -147,7 +147,10 @@ heroku config:set FB_PAGE_TOKEN="EAAU2LXXraaIBAM2ZCd4UhC9a ... lon long long tok
 
 Está tudo pronto para dizer olá ao chat bot!!!
 
+## Testar o char bot
+Caso a página do Facebook que foi criada não esteja pública, podemos adicionar um botão de conversação e testar o chat bot desta forma.
 
+![Screenshot](docs/img/Facebook_05_add_button.gif)
 
 ## Créditos
 
