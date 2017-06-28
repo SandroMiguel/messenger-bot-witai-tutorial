@@ -50,7 +50,7 @@ Por enquanto vamos criar uma história de resposta rápida (sim/não)
 ![Screenshot](docs/img/wit_server_access_token.png)
 
 ## Configurar o Heroku
-O Heroku é uma (PaaS - platform as a service) que suporta várias linguagens de programação tendo sido adquirida pela Salesforce.com em 2010.  
+O Heroku é uma (PaaS - Platform as a Service) que suporta várias linguagens de programação tendo sido adquirida pela Salesforce.com em 2010.  
 
 1. Fazer o *clone* deste repositório para a máquina local
 
@@ -88,15 +88,23 @@ git push heroku master
 ```
 ![Screenshot](docs/img/heroku_01_deploy.gif)
 
-3. Deploy the bot to Heroku by running these command in Terminal inside the cloned git repo directory. A page should pop up meaning your app is ready. Be sure to remember the URL of your Heroku app.
+6. Definir o *token* do Wit.ai no Heroku
+- O *token* fornecido anteriormente no Wit.ai deve ser configurado no Heroku
+```PowerShell
+heroku config:set WIT_TOKEN="F3PN6IUL574DXE3ENCBQQ4SWCYPQHILL"
+```
+- Abrir a aplicação no Heroku
+```PowerShell
+heroku config:set WIT_TOKEN="F3PN6IUL574DXE3ENCBQQ4SWCYPQHILL"
+```
+![Screenshot](docs/img/heroku_02_wit_token.gif)
 
-	```
-	heroku apps:create
-	git push heroku master
-	heroku open
-	```
+- Guardar este URL (ex.: https://chatbot-sandro.herokuapp.com/)
 
-Setup Facebook to talk to your chat bot
+O Heroku já comunica com o Wit.ai !!! 
+
+## Configurar o Facebook
+Vamos configurar o Messenger do Facebook para comunicar com o chat bot.
 
 1. Sign up to Facebook Developer Program - 
 
