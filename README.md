@@ -54,7 +54,8 @@ O Heroku é uma (PaaS - Platform as a Service) que suporta várias linguagens de
 
 1. Fazer o *clone* deste repositório para a máquina local
 
-*NOTA: utilizei o PowerShell do Windows 10*
+*NOTA #1: utilizei o Git Shell no Windows 10*
+*NOTA #2: o Git Shell vem incluído no GitHub Desktop (https://desktop.github.com)*
 ```PowerShell
 git clone https://github.com/SandroMiguel/messenger-bot-witai-tutorial witai_facebook
 ```
