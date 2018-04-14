@@ -84,6 +84,7 @@ npm install
 heroku login
 ```
 - Criar uma aplicação no Heroku
+(O nome da aplicação tem de ser único. No meu caso escolhi o nome "chatbot-sandro")
 ```PowerShell
 heroku apps:create chatbot-sandro
 ```
