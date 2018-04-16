@@ -118,7 +118,7 @@ Vamos configurar o Messenger do Facebook para comunicar com o chat bot.
 
 2. Criar uma nova página no Facebook em https://www.facebook.com/pages/create
 
-*NOTA: Também se pode usar uma página criada anteriormente.*
+*NOTA: Também é possível utilizar uma página criada anteriormente.*
 
 ![Screenshot](docs/img/facebook_01_create_page.png)
 
