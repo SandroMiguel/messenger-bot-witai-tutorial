@@ -131,6 +131,7 @@ Vamos configurar o Messenger do Facebook para comunicar com o chat bot.
 - Configurar o Webhooks
 	- Callback URL: https://*your-heroku-app-name*.herokuapp.com/**webhooks** (não esquecer do "webhooks" no final)
 	- Verify Token: just_do_it
+	- Em "Subscription Fields" selecionar "messages" e "messaging_postbacks"
 	- Selecionar a página em "Select a page to subscribe your webhook to the page events"
 
 ![Screenshot](docs/img/heroku_03_webhooks.gif)
